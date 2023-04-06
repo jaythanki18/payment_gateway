@@ -1,6 +1,6 @@
 # payment_gateway
 
-A new Flutter project.
+An application for payment gateway in flutter using Zego cloud API
 
 ## Getting Started
 
